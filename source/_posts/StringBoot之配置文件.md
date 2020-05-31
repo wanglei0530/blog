@@ -1,9 +1,13 @@
 ---
-
-title: StringBoot配置文件（Yml、Properties）
-
+title: SpringBoot配置文件（Yml、Properties）
 date: 2018/01/06 18:26:55
-
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 

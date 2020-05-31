@@ -1,6 +1,15 @@
 ---
 title: SpringBoot-Jdbc
 date: 2018/10/05 12:07:14
+cover: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3125349892,2997059783&fm=26&gp=0.jpg
+tags: 
+ - Java
+ - SpringBoot
+ - 数据库
+ - 学习
+categories:
+ - Java
+ - SpringBoot
 ---
 
 ## 1、JDBC

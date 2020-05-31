@@ -1,6 +1,15 @@
 ---
 title: SpringBoot-整合Mybatis
 date: 2018/12/04 09:22:09
+cover: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3125349892,2997059783&fm=26&gp=0.jpg
+tags: 
+ - Java
+ - SpringBoot
+ - MyBaits
+ - 学习
+categories: 
+ - SpringBoot
+ - Mybaits
 ---
 
 

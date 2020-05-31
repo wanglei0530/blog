@@ -1,7 +1,12 @@
 ---
 title: 项目管理禅道Linux
 date: 2019/05/05 12:07:14
-
+tags: 
+ - Linux
+ - 项目管理
+ - 学习
+categories: 
+ - 项目管理
 ---
 
 ## 

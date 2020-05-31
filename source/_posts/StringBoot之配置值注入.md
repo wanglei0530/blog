@@ -1,9 +1,13 @@
 ---
-
-title: StringBoot之配置值注入
-
+title: SpringBoot之配置值注入
 date: 2018/02/04 13:16:11
-
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 配置文件
 

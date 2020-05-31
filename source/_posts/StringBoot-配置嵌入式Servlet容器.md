@@ -1,7 +1,13 @@
 ---
-title: StringBoot-配置嵌入式Servlet容器
-
+title: SpringBoot-配置嵌入式Servlet容器
 date: 2018/11/02 01:16:34
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 SpringBoot默认使用Tomcat作为嵌入式的Servlet容器；

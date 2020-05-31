@@ -1,6 +1,14 @@
 ---
 title: SpringBoot-Mycat（MySql读写分离）
 date: 2019/05/05 12:07:14
+cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1590928080776&di=0d3c369415e47b0a0440d8e8efc46d8c&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F19df12688d51801cecbb91e3dec8dfe1e675ce0ddc679-5EDwNI_fw658
+tags: 
+ - 博客
+ - 教程
+ - MyCat
+ - 数据库
+categories: 
+ - 数据库
 ---
 
 [TOC]

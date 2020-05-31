@@ -1,7 +1,14 @@
 ---
-title: StringBoot-自动配置
+title: SpringBoot-自动配置
 
 date: 2018/08/22 22:01:09
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications

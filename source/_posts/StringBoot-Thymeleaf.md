@@ -1,10 +1,14 @@
 ---
-title: StringBoot-Thymeleaf
+title: SpringBoot-Thymeleaf
 
 date: 2018/07/22 13:10:11
-
-
-
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 ## 1、简介

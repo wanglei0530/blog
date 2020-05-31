@@ -1,9 +1,15 @@
 ---
-title: StringBoot-日志框架
+title: SpringBoot-日志框架
 
 date: 2018/05/07 15:10:11
 
-
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 ## 1、日志框架

@@ -1,8 +1,14 @@
 ---
-title: StringBoot-RestfulCRUD
+title: SpringBoot-RestfulCRUD
 
 date: 2018/08/29 21:11:44
-
+tags: 
+ - Java
+ - SpringBoot
+ - 学习
+categories: 
+ - Java
+ - SpringBoot
 ---
 
 ### 1）、默认访问首页

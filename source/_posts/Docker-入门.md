@@ -1,6 +1,11 @@
 ---
-title: Docker-入门
+title: Docker入门
 date: 2019/05/14 11:59:44
+top_img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1590927938374&di=c94a4e56e763d10151e654985bb1072a&imgtype=0&src=http%3A%2F%2Fpic.rmb.bdstatic.com%2F27ecdf8167f9bd83d32f817d21a3dc06.jpeg
+
+tags: 
+ - Linux 
+ - Docker
 ---
 
 #### 1）、安装linux虚拟机

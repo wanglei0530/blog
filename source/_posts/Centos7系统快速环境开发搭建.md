@@ -1,7 +1,11 @@
 ---
-title: Centos7 系统快速环境开发搭建
-
+title: Centos7系统快速环境开发搭建
 date: 2019/06/12 01:16:34
+tags: 
+ - Linux 
+ - 服务器 
+ - Centos7
+
 
 ---
 

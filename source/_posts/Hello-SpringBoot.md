@@ -1,7 +1,10 @@
 ---
-
-title: Hello SpringBoot
+title: HelloSpringBoot
 date: 2018-5-01 20:46:25
+
+tags:
+ - Java 
+ - SpringBoot 
 ---
 
 

@@ -1,6 +1,13 @@
 ---
 title: MySql多数据源(自定义注解完成数据库切库,读写分离)
 date: 2019/01/04 17:59:44
+tags: 
+ - Java
+ - SpringBoot
+ - Mysql
+ - 学习
+categories: 
+ - 数据库
 ---
 
 ### 本文参照：
