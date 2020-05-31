@@ -4,6 +4,9 @@
 # sub-menu
 # xxx || icon:
 #   xxx || 連結 || icon
+# 主题配置文档
+# https://blog.csdn.net/zgd826237710/article/details/99671027
+# https://jerryc.me/posts/4aa8abbe/
 menu:
   Home: / || fa fa-home
   Archives: /archives/ || fa fa-archive
@@ -107,7 +110,7 @@ favicon: /img/favicon.png
 # Post info settings
 # ---------------
 avatar:
-  img: /img/avatar.png
+  img: /img/avatar.jpeg
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
@@ -141,7 +144,7 @@ cover:
   archives_enable: true
   # 封面顯示的位置
   # 三個值可配置 left , right , both
-  position: both
+  position: left
   # 當沒有設置cover時，默認的封面顯示
   default_cover:
     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
