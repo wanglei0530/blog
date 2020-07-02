@@ -110,7 +110,7 @@ favicon: /img/favicon.png
 # Post info settings
 # ---------------
 avatar:
-  img: /img/avatar.jpeg
+  img: /img/avatar.png
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
@@ -187,10 +187,10 @@ auto_open_sidebar:
   enable: true
 
 post_copyright:
-  enable: true
+  enable: false
   decode: false
-#  license: CC BY-NC-SA 4.0
-#  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # 自動節選
 auto_excerpt:
@@ -205,7 +205,7 @@ addThis:
 
 sharejs:
   enable: true
-  sites: facebook,twitter,wechat,weibo,qq
+  sites: wechat,weibo,qq
 
 # https://www.addtoany.com/
 addtoany:
@@ -425,7 +425,7 @@ theme_color:
 # 主頁設置
 # 默認top_img全屏，site_info在中間
 # 使用默認, 都無需填寫（建議默認）
-index_site_info_top: # 主頁標題距離頂部距離  例如 300px/300em/300rem/10%
+index_site_info_top:  # 主頁標題距離頂部距離  例如 300px/300em/300rem/10%
 index_top_img_height: # 主頁top_img高度 例如 300px/300em/300rem  不能使用百分比
 
 # category和tag頁的UI設置
@@ -442,7 +442,7 @@ tag_ui: # 留空或index
 background:
 
 # footer是否顯示圖片背景(與top_img一致)
-footer_bg: true
+footer_bg: false
 
 # 背景特效
 # 避免卡頓，建議只開啟一個
@@ -528,7 +528,7 @@ hr:
 
 # 主頁subtitle
 subtitle:
-  enable: true
+  enable: false
   # 打字效果
   effect: true
   # 循環或者只打字一次
@@ -545,7 +545,7 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - 全力以赴，你会很酷。
-    # - Never put off till tomorrow what you can do today
+#    - Never put off till tomorrow what you can do today
 
 # fontawesome圖標
 # 默認使用的是 fontawesome v4版本的圖標
@@ -700,11 +700,11 @@ disable_baidu_transformation: true
 
 # twitter分享自動帶上樣式
 # https://i.loli.net/2019/09/08/qm3RfvUCKbct1Wz.png
-twitter_meta: true
+twitter_meta: false
 
 # facebook QQ 等 分享自動帶上樣式
 # https://i.loli.net/2019/09/08/2wbFJEKloisRvhj.png
-Open_Graph_meta: true
+Open_Graph_meta: false
 
 # 開啟hexo自帶的緩存，加快生成速度
 fragment_cache: true

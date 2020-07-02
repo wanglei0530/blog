@@ -1,7 +1,10 @@
 ---
 title: 留言板
+
 date: 2020-05-31 18:41:37
+
 cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/messageboard.jpg
+
 top_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/messageboard.jpg
 ---
 

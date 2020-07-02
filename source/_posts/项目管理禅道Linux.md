@@ -1,15 +1,18 @@
 ---
 title: 项目管理禅道Linux
+
 date: 2019/05/05 12:07:14
+
 tags: 
  - Linux
  - 项目管理
  - 学习
+ 
 categories: 
  - 项目管理
 ---
 
-## 
+
 
 - **官网：**http://www.zentao.net/book/zentaopmshelp/90.html
 
@@ -38,10 +41,11 @@ categories:
 
   > 执行/opt/zbox/zbox start 命令开启Apache和Mysql。 执行/opt/zbox/zbox stop 命令停止Apache和Mysql。 执行/opt/zbox/zbox restart 命令重启Apache和Mysql。 /opt/zbox/zbox -h命令来获取关于zbox命令的帮助。 ##如果需要开机自动启动，可以把 /opt/zbox/zbox restart 加到操作系统的自启目录。
 
-- 登录
+- **登录**
 
   > 启动 Apache和Mysql服务后， 浏览器直接访问：http://62.234.166.188:3307/zentao 注：如果网页无法访问，请先关闭禅道所在电脑的防火墙和selinux再刷新网页访问试一下。 禅道默认管理员帐号是 admin，密码 123456 首次登录后，修改admin密码
 
 - **访问数据库**
 
   > 添加数据库(不执行此步骤无法访问数据库) sh /opt/zbox/auth/adduser.sh 登录数据库：/opt/zbox/bin/mysql -u root -P mysql端口 -p  （比如：/opt/zbox/bin/mysql -u root -P 3306 -p） 导入数据库：/opt/zbox/bin/mysql -u root -P mysql端口 -p 要导入的库名 < XXXX.sql （比如：/opt/zbox/bin/mysql -u root -P 3306 -p zentao < zentao.sql）
+
