@@ -105,7 +105,8 @@ mermaid:
 
 # Favicon
 # ---------------
-favicon: /img/favicon.png
+#favicon: /img/favicon.png
+favicon: http://www.tuyitu.com/_temp/30868026879359.jpg
 
 # Post info settings
 # ---------------
