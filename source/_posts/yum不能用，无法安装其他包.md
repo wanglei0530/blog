@@ -2,7 +2,7 @@
 
 title: yum不能用，无法安装其他包，也无法update，报错“One of the configured repositories failed (Unknown),”
 
-date: 2020-06-011 14:17:56
+date: 2020-04-11 14:17:56
 
 tags: 
  - Linux
